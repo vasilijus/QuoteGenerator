@@ -1,0 +1,16 @@
+.container {
+			width: 80%;
+			margin: auto;
+			margin-top:10%;
+			text-align: center;
+			padding: 10px;
+			border:1px solid white;
+			border-radius:25px;
+			background-color:rgba(216,216,216,0.5);
+		}
+		#btnSubmit {
+			font-weight:bold;
+			padding: 10px 15px;
+			border-radius: 10px;
+			border: white 1px solid;
+		}
